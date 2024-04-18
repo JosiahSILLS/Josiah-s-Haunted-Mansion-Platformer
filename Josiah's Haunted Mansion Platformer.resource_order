@@ -16,8 +16,10 @@
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sBackground","order":3,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"dark_castle_tileset","order":2,"path":"sprites/dark_castle_tileset/dark_castle_tileset.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+    {"name":"obj_control","order":2,"path":"objects/obj_control/obj_control.yy",},
   ],
 }
